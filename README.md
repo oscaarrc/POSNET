@@ -1,7 +1,6 @@
-Link al hackmd --> https://hackmd.io/@OscarRC/SJR5hP4Zn
-
-
 # **POSNET**
+
+## Link al javadoc --> [LINK](https://oscaarrc.github.io/POSTNET_DOC/package-summary.html)
 
 ## **Name**
 
@@ -38,12 +37,17 @@ B) Desarrollar el método main del proyecto y generar las instancias necesarias 
 - Puede visitar el repositorio oficial del proyecto en el siguiente enlace -> [LINK](https://github.com/CharlyCimino/ejercicio-integrador-POO-I.git)
 - También puede ver la resolución del programa en este vídeo -> [LINK](https://youtu.be/g_ZINDMzi3c)
 
-## Authors and acknowledgment
+## **Authors and acknowledgment**
 - Author: Óscar Ramos Castellano.
 
-## License
+## **License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## **(GitHub) - commit, resultado de la ejecución:**
 
-# Link al javadoc
+![](https://i.imgur.com/xttt1lC.png)
+
+## **(GitHub) - historial de versiones para el proyecto**
+![](https://i.imgur.com/pEPWAxX.png)
+
